@@ -1,5 +1,7 @@
 # Permintaan Barang (Transfer WS-WS)
 
+### SPAREPART TRANSFER
+
 ![](<../.gitbook/assets/transfer wsws.PNG>)
 
 Form ini untuk membuat permintaan barang / sparepart yang dibutuhkan dari workshop ke workshop lain.
